@@ -1,4 +1,4 @@
-# KNN-K-Nearest-Neighbours-3D-points\
+# KNN-K-Nearest-Neighbours-3D-points
 \
 A minimal program in Python to classify a point regarding their K Nearest Neighbours in a 3D space.\
 \
